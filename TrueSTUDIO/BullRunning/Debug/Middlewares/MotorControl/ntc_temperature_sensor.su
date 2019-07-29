@@ -1,0 +1,7 @@
+ntc_temperature_sensor.c:65:10:NTC_SetFaultState	0	static
+ntc_temperature_sensor.c:93:6:NTC_Init	16	static
+ntc_temperature_sensor.c:115:6:NTC_Clear	0	static
+ntc_temperature_sensor.c:127:10:NTC_CalcAvTemp	8	static
+ntc_temperature_sensor.c:163:10:NTC_GetAvTemp_d	0	static
+ntc_temperature_sensor.c:175:9:NTC_GetAvTemp_C	0	static
+ntc_temperature_sensor.c:203:10:NTC_CheckTemp	0	static

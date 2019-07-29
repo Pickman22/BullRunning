@@ -1,0 +1,7 @@
+ramp_ext_mngr.c:44:6:REMNG_Init	0	static
+ramp_ext_mngr.c:65:9:REMNG_Calc	4	static
+ramp_ext_mngr.c:113:6:REMNG_ExecRamp	24	static
+ramp_ext_mngr.c:192:9:REMNG_GetValue	0	static
+ramp_ext_mngr.c:204:6:REMNG_RampCompleted	0	static
+ramp_ext_mngr.c:219:6:REMNG_StopRamp	0	static
+ramp_ext_mngr.c:232:10:getScalingFactor	0	static

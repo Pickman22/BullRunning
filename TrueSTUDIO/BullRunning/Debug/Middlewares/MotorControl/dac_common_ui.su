@@ -1,0 +1,4 @@
+dac_common_ui.c:62:6:DAC_SetChannelConfig	0	static
+dac_common_ui.c:78:19:DAC_GetChannelConfig	0	static
+dac_common_ui.c:91:6:DAC_SetUserChannelValue	0	static
+dac_common_ui.c:104:9:DAC_GetUserChannelValue	0	static

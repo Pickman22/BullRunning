@@ -1,0 +1,5 @@
+open_loop.c:47:6:OL_Init	0	static
+open_loop.c:58:17:OL_VqdConditioning	8	static
+open_loop.c:74:6:OL_UpdateVoltage	0	static
+open_loop.c:84:6:OL_Calc	0	static
+open_loop.c:106:6:OL_VF	0	static

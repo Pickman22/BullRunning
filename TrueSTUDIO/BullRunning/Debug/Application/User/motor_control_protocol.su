@@ -1,0 +1,9 @@
+motor_control_protocol.c:152:6:MCP_SentFrame	8	static
+motor_control_protocol.c:165:6:MCP_ReceivedFrame	72	static
+motor_control_protocol.c:127:6:MCP_OnTimeOut	8	static
+motor_control_protocol.c:100:6:MCP_Init	32	static
+motor_control_protocol.c:137:6:MCP_WaitNextFrame	8	static
+motor_control_protocol.c:604:6:MCP_SendOverrunMessage	16	static
+motor_control_protocol.c:615:6:MCP_SendTimeoutMessage	16	static
+motor_control_protocol.c:626:6:MCP_SendATRMessage	48	static
+motor_control_protocol.c:667:6:MCP_SendBadCRCMessage	16	static

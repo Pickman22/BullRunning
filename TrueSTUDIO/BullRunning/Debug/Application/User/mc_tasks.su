@@ -1,0 +1,12 @@
+mc_tasks.c:124:6:MCboot	80	static
+mc_tasks.c:270:6:MC_RunMotorControlTasks	40	static
+mc_tasks.c:291:6:MC_Scheduler	40	static
+mc_tasks.c:647:6:TSK_SetChargeBootCapDelayM1	0	static
+mc_tasks.c:658:6:TSK_ChargeBootCapDelayHasElapsedM1	0	static
+mc_tasks.c:710:9:TSK_HighFrequencyTask	56	static
+mc_tasks.c:827:6:TSK_SafetyTask	16	static
+mc_tasks.c:849:6:TSK_SafetyTask_PWMOFF	24	static
+mc_tasks.c:900:16:GetMCI	0	static
+mc_tasks.c:919:15:GetMCT	0	static
+mc_tasks.c:935:6:TSK_HardwareFaultTask	8	static
+mc_tasks.c:950:6:mc_lock_pins	72	static

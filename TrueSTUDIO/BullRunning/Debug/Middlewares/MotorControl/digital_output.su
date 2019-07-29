@@ -1,0 +1,2 @@
+digital_output.c:44:6:DOUT_SetOutputState	0	static
+digital_output.c:74:16:DOUT_GetOutputState	0	static
